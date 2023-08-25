@@ -1,0 +1,10 @@
+ConnMethod=tcp
+ConnTime=2023-05-06T02:50:13.401Z
+FriendlyName=CV-20
+Host=154.53.38.77:63160
+Labels=CV
+Password=adb1f8b96808eb60
+Quality=High
+RelativePtr=0
+Sequence="27"
+Uuid=4e96b75b-15c0-48f1-9f62-c690a288cfed
